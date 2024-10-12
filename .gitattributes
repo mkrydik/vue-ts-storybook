@@ -1,0 +1,2 @@
+# Ignore TypeScript
+*.ts linguist-detectable=false
